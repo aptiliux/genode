@@ -1,3 +1,6 @@
+# Tested for nova 64bit solely.
+assert_spec 64bit
+ 
 set use_vdi 1
 set use_iso 0
 set vdi_image "win7.vdi"
